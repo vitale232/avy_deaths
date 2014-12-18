@@ -1,0 +1,1 @@
+I created this repo mostly to learn how to use Beautiful Soup and ggplot2.  The data that this repo viualize are downloaded from http://www.avalanche.org.
